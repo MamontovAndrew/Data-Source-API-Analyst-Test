@@ -1,0 +1,422 @@
+[
+    {
+        "sha": "a9cfd245f6acb6a03407c370b8d520999285afa1",
+        "node_id": "C_kwDOAU2_CNoAKGE5Y2ZkMjQ1ZjZhY2I2YTAzNDA3YzM3MGI4ZDUyMDk5OTI4NWFmYTE",
+        "commit": {
+            "author": {
+                "name": "Joseph Misiti",
+                "email": "josephmisiti@users.noreply.github.com",
+                "date": "2024-11-11T16:08:31Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-11-11T16:08:31Z"
+            },
+            "message": "Merge pull request #1001 from debashishc/master\n\ndocs(readme): added EspNet tool for speech processing tasks in Python",
+            "tree": {
+                "sha": "d77e25816628fa02fa921d3fe271e1be413983fb",
+                "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/git/trees/d77e25816628fa02fa921d3fe271e1be413983fb"
+            },
+            "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/git/commits/a9cfd245f6acb6a03407c370b8d520999285afa1",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnMiv/CRC1aQ7uu5UhlAAASmAQAIW3Nz5/W93cHGVInFu5U5py\npCxqvPch2hR+m9WXsBFWteruJ19uSd4EacCRVHqJ+p/9XqCLUlhEqb5AZV/8xYHb\nmjPMiUkY2c4++aPEw8RtgyLCFnYNS7QqRqwJrj0/PBs/6fVZ+uXdwBxaIGc60imG\nK+Go6SWiA8aDpuhPTHPxCIjRPWu7p0wBILIurkqU7oROqzsWfqpPbwCVS8b/69Bk\nanhHoBPpPGeKbrzrgZE1F/NZYf0G1VK0jOJP41EjOFrhCHg5OZH179aoMAMrXoZ9\nKfTx8zcjlf3FEDcQZgWxixTSSpAlEte/0Cb1H4iTUKrv/DUZGzvm00xAQpJPLk84\nTjW0WwcRcAdswpNF1Ub3qxh7ev6JNALTgYK7c/qu/k8TK9g1L77CrinngDnvNEtH\ntbWSceoP3AVwEFkByeHscIh8XSXCm2BWsx+AN9Z/LAmEpVC5TepwhJxSGmbEtDU8\nUmBLr6eMH1LueO7jMyKBs7BqMEK7eK0NW61CG5IXmeuIwOdg0X0LcraiT+1auNuC\njZJr98vO1gkvEx8AKm8MfmqAt2fqTmRdPnSTmhlqvad5Ou82CaoK+Uhf3/TO1HgY\ngqJq9z2R92IX5+6iEUochv+Kdn/aVdufxiQ1I6/uFdNjEeKSoBDyMvA9silQKXMg\nDz07MmvikT9vS6PbJtTJ\n=Goja\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree d77e25816628fa02fa921d3fe271e1be413983fb\nparent 3e760ed5c057280cb0b0a044dda9be44fc3618f1\nparent 5f7293e5c249e217947a55ab5b1bc95d250678e1\nauthor Joseph Misiti <josephmisiti@users.noreply.github.com> 1731341311 -0500\ncommitter GitHub <noreply@github.com> 1731341311 -0500\n\nMerge pull request #1001 from debashishc/master\n\ndocs(readme): added EspNet tool for speech processing tasks in Python",
+                "verified_at": "2024-11-11T16:08:35Z"
+            }
+        },
+        "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/commits/a9cfd245f6acb6a03407c370b8d520999285afa1",
+        "html_url": "https://github.com/josephmisiti/awesome-machine-learning/commit/a9cfd245f6acb6a03407c370b8d520999285afa1",
+        "comments_url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/commits/a9cfd245f6acb6a03407c370b8d520999285afa1/comments",
+        "author": {
+            "login": "josephmisiti",
+            "id": 246302,
+            "node_id": "MDQ6VXNlcjI0NjMwMg==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/246302?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/josephmisiti",
+            "html_url": "https://github.com/josephmisiti",
+            "followers_url": "https://api.github.com/users/josephmisiti/followers",
+            "following_url": "https://api.github.com/users/josephmisiti/following{/other_user}",
+            "gists_url": "https://api.github.com/users/josephmisiti/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/josephmisiti/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/josephmisiti/subscriptions",
+            "organizations_url": "https://api.github.com/users/josephmisiti/orgs",
+            "repos_url": "https://api.github.com/users/josephmisiti/repos",
+            "events_url": "https://api.github.com/users/josephmisiti/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/josephmisiti/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "3e760ed5c057280cb0b0a044dda9be44fc3618f1",
+                "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/commits/3e760ed5c057280cb0b0a044dda9be44fc3618f1",
+                "html_url": "https://github.com/josephmisiti/awesome-machine-learning/commit/3e760ed5c057280cb0b0a044dda9be44fc3618f1"
+            },
+            {
+                "sha": "5f7293e5c249e217947a55ab5b1bc95d250678e1",
+                "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/commits/5f7293e5c249e217947a55ab5b1bc95d250678e1",
+                "html_url": "https://github.com/josephmisiti/awesome-machine-learning/commit/5f7293e5c249e217947a55ab5b1bc95d250678e1"
+            }
+        ]
+    },
+    {
+        "sha": "3e760ed5c057280cb0b0a044dda9be44fc3618f1",
+        "node_id": "C_kwDOAU2_CNoAKDNlNzYwZWQ1YzA1NzI4MGNiMGIwYTA0NGRkYTliZTQ0ZmMzNjE4ZjE",
+        "commit": {
+            "author": {
+                "name": "Joseph Misiti",
+                "email": "josephmisiti@users.noreply.github.com",
+                "date": "2024-11-11T16:07:40Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-11-11T16:07:40Z"
+            },
+            "message": "Merge pull request #1000 from anmorgan24/add-opik\n\nAdd Opik",
+            "tree": {
+                "sha": "ce42ecafd2ed534f8fd24e69e39db96454ef6597",
+                "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/git/trees/ce42ecafd2ed534f8fd24e69e39db96454ef6597"
+            },
+            "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/git/commits/3e760ed5c057280cb0b0a044dda9be44fc3618f1",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnMivMCRC1aQ7uu5UhlAAA+eEQADVZu5AVPW86wC9FYTc6zfRy\n4G8sSMQt7Zn76IBI+o3sQi6pjsn40eAJHRqCI+x29py2cKs4a0pupc4iXA6io2VD\nu7iFVaOsyZfU09Ft+yo5kHl3kG+b85h7Rvq3wMqzpb4uG+xhrVDb/tkG7hD9QdWs\n5AJKfwWOyD1Z0yW1CwAYhSQvGAXNqqDKFFia0+xHep3uC4+LZlCGb8dR9KHd29L6\nOMeQHzQL58p9I1C1rr/q09SqmR7ck1tiD7hRmViCTlcuhWfgjbkgo9UkVeL2hlwe\nsZ99MKrGc4UAK7+ONiXrL3H+Rn/1cohuU0pCTo9AN5XgsynHzhKmqoFh0ERe/xMY\nNJXJUn8dCYls/1zfyDsDVguDd2L2RmibPOUYcYrf4PWf+uRVj6PYoChP2XCDTdKu\nA+IQfVBSSuwHMIf2zLyakNqUq3rUgacNyaTe7EawqsUTAdLNNLvEMbol2patM39u\not64L7T8wyxDylBkxi2PAcrfo8+hB0Kl/PIryAUZ5hwTZmRZf5Pe10vZiNT5PJ61\n5rElZrEchSOrUdmKAlRPIWzeGhwefq/GCIR6d8FzieiPOnQODSUa07VCPBzbobh9\ndUQYjJD00dLKDvWnMJU5tKfxS5fc7ClckkHGAtxySfMJst6Ua/I3JcTQT6nLG5uL\noZBs+9ll2QAAnjkO/6jg\n=X+Wa\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree ce42ecafd2ed534f8fd24e69e39db96454ef6597\nparent 4964cff36225e9951c6c6a398fb925f269532b1b\nparent 50ecf61e10e2a368ccf153657226251952b1bded\nauthor Joseph Misiti <josephmisiti@users.noreply.github.com> 1731341260 -0500\ncommitter GitHub <noreply@github.com> 1731341260 -0500\n\nMerge pull request #1000 from anmorgan24/add-opik\n\nAdd Opik",
+                "verified_at": "2024-11-11T16:07:44Z"
+            }
+        },
+        "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/commits/3e760ed5c057280cb0b0a044dda9be44fc3618f1",
+        "html_url": "https://github.com/josephmisiti/awesome-machine-learning/commit/3e760ed5c057280cb0b0a044dda9be44fc3618f1",
+        "comments_url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/commits/3e760ed5c057280cb0b0a044dda9be44fc3618f1/comments",
+        "author": {
+            "login": "josephmisiti",
+            "id": 246302,
+            "node_id": "MDQ6VXNlcjI0NjMwMg==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/246302?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/josephmisiti",
+            "html_url": "https://github.com/josephmisiti",
+            "followers_url": "https://api.github.com/users/josephmisiti/followers",
+            "following_url": "https://api.github.com/users/josephmisiti/following{/other_user}",
+            "gists_url": "https://api.github.com/users/josephmisiti/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/josephmisiti/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/josephmisiti/subscriptions",
+            "organizations_url": "https://api.github.com/users/josephmisiti/orgs",
+            "repos_url": "https://api.github.com/users/josephmisiti/repos",
+            "events_url": "https://api.github.com/users/josephmisiti/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/josephmisiti/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "4964cff36225e9951c6c6a398fb925f269532b1b",
+                "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/commits/4964cff36225e9951c6c6a398fb925f269532b1b",
+                "html_url": "https://github.com/josephmisiti/awesome-machine-learning/commit/4964cff36225e9951c6c6a398fb925f269532b1b"
+            },
+            {
+                "sha": "50ecf61e10e2a368ccf153657226251952b1bded",
+                "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/commits/50ecf61e10e2a368ccf153657226251952b1bded",
+                "html_url": "https://github.com/josephmisiti/awesome-machine-learning/commit/50ecf61e10e2a368ccf153657226251952b1bded"
+            }
+        ]
+    },
+    {
+        "sha": "5f7293e5c249e217947a55ab5b1bc95d250678e1",
+        "node_id": "C_kwDOAU2_CNoAKDVmNzI5M2U1YzI0OWUyMTc5NDdhNTVhYjViMWJjOTVkMjUwNjc4ZTE",
+        "commit": {
+            "author": {
+                "name": "debashishc",
+                "email": "14357362+debashishc@users.noreply.github.com",
+                "date": "2024-09-21T11:39:23Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-09-21T11:39:23Z"
+            },
+            "message": "docs(readme): made EspNet description more concise",
+            "tree": {
+                "sha": "5a46b8a031d5a07ea3341f4546745cfac0f408c5",
+                "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/git/trees/5a46b8a031d5a07ea3341f4546745cfac0f408c5"
+            },
+            "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/git/commits/5f7293e5c249e217947a55ab5b1bc95d250678e1",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJm7rBrCRC1aQ7uu5UhlAAAPucQAEqnOZKbT3vVWoPqhVjtUWTD\nagfJoWkPhN28HusES9ghcFnhoNTFE1oon0hKsI65ZbxaybCkFwewPpwCamz0xQtg\nASkXVVj7Jm2gmzi+g4d4bANWnXb1cOqdaNOLkFrXJPAA2zSaNhrK+oJ6AyUelHdz\n+4puikq9YcX6CQDUTvv9Qljx0namvess70Aa7O890PrZqouFqWVdap80nUAp8zBb\n8w/Vtyy/IRNQcsDbU6c0iiJEY7WSprD9hWJ8G5jgP8A34nLpbq2yp58sF5GonxQ5\nc0FWVvkDaghh1UJSvwFgcbRUdRb3AAi6kuD3k9uGtKxlZpPjUSWK01lETXSPWUbu\nEUwH68/3TlaViVQlLtvuT7tFXAYG9PXCQ2OGtjCYL8UmzkajlhjhczzpDdjproi7\ntrntsKBGKGvK8V9K5LMzZucWT8Ipu4nSicStJ1VGuZ7qrJeN6g0hlj9aVqalM8FX\nivCRVvwuxK+n2HF3JLO41bcXzvnHhkDlSAz0BQw/BnyHkON/ZuZ21osvq5Tarnn3\nAWFGa52WstYYHRUiR5FMumzCLtM8Mszd/XchNoQN7gHs/DvbDORBG86heGmbDqng\nd8BWvP4fJtPJ4QN5ME6WkYdUDonrcMVF4M2c6pO3TV864XnfHXYd9KNlpixA+9No\nTOAgytwkgeQiO3pSkSw7\n=m6xY\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 5a46b8a031d5a07ea3341f4546745cfac0f408c5\nparent d5de41ccbec7725f69c2e54c8d18a1e564aab223\nauthor debashishc <14357362+debashishc@users.noreply.github.com> 1726918763 +1000\ncommitter GitHub <noreply@github.com> 1726918763 +1000\n\ndocs(readme): made EspNet description more concise",
+                "verified_at": "2024-11-09T11:02:58Z"
+            }
+        },
+        "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/commits/5f7293e5c249e217947a55ab5b1bc95d250678e1",
+        "html_url": "https://github.com/josephmisiti/awesome-machine-learning/commit/5f7293e5c249e217947a55ab5b1bc95d250678e1",
+        "comments_url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/commits/5f7293e5c249e217947a55ab5b1bc95d250678e1/comments",
+        "author": {
+            "login": "debashishc",
+            "id": 14357362,
+            "node_id": "MDQ6VXNlcjE0MzU3MzYy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14357362?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/debashishc",
+            "html_url": "https://github.com/debashishc",
+            "followers_url": "https://api.github.com/users/debashishc/followers",
+            "following_url": "https://api.github.com/users/debashishc/following{/other_user}",
+            "gists_url": "https://api.github.com/users/debashishc/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/debashishc/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/debashishc/subscriptions",
+            "organizations_url": "https://api.github.com/users/debashishc/orgs",
+            "repos_url": "https://api.github.com/users/debashishc/repos",
+            "events_url": "https://api.github.com/users/debashishc/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/debashishc/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "d5de41ccbec7725f69c2e54c8d18a1e564aab223",
+                "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/commits/d5de41ccbec7725f69c2e54c8d18a1e564aab223",
+                "html_url": "https://github.com/josephmisiti/awesome-machine-learning/commit/d5de41ccbec7725f69c2e54c8d18a1e564aab223"
+            }
+        ]
+    },
+    {
+        "sha": "d5de41ccbec7725f69c2e54c8d18a1e564aab223",
+        "node_id": "C_kwDOAU2_CNoAKGQ1ZGU0MWNjYmVjNzcyNWY2OWMyZTU0YzhkMThhMWU1NjRhYWIyMjM",
+        "commit": {
+            "author": {
+                "name": "debashishc",
+                "email": "14357362+debashishc@users.noreply.github.com",
+                "date": "2024-09-21T11:36:08Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-09-21T11:36:08Z"
+            },
+            "message": "docs(readme): add EspNet for Speech Processing Tasks",
+            "tree": {
+                "sha": "e348737ee731428af6c91fa6d9d269d501ac18f2",
+                "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/git/trees/e348737ee731428af6c91fa6d9d269d501ac18f2"
+            },
+            "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/git/commits/d5de41ccbec7725f69c2e54c8d18a1e564aab223",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJm7q+pCRC1aQ7uu5UhlAAAa9kQAEsM+7T88gWJq3eblFsib9pe\noQ6q4K4AQl5enGDjpu+dcsiKOFSnQJCFhAuJc2hP4LZxLP3X9OMsWAgEchcptDgS\nD4jxI8lTQOFfnGP0FvxVejGEkPkfJHIuQAXmvOtMnTcKs3Nkbdh+jTzxTAgqe68L\noOGiVnVSvL+FhAxSmFHaNlfXmSNtUWdmM2rkvRK++niqv5cb5GSncherTo2nbIzN\nAfdYDSWQDRqEw5+Y/P6pC0/tKhyWQG7UBligHx5i1aK6LV/F13cNxncqkvnB4TfS\npzmHr2RrZfpG23yjJy6Hl6Wwjz4+EsuC2As8KfSI6veaSrAkwNJT39YwFzE8Yu+k\nZ8NRLbayrtz22j17aYHchsEfY2VIfgOzGUhKTookSun1VEt4CPetj84M9tDQRBdo\nVzwFViD3xUXsEcQ9m6+LwDQyH5/FadlFfU6BUNYGNVyhKNvvfyhEe0Zt77Ed71rr\nTc5I//5fm5n2NXfRYYCswLZKsFlbk1asFrJ30YqVMMeAJ39UO5n+xqTWoUnKCjjV\nP8JYFp6SnkOxgP5zXjLLDWN/3lJAo6lA98hKh8nP40VJVGOQm2Xke1BRz8IfhMVL\nAQEE+u7pWBhG91RvQYfO/jM+VedfEr+5pLM6tdqUzyb4G2uFUYBqwPvFjS/az6L5\ntJWIbjn+3MDfc4yiEstV\n=Uydt\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree e348737ee731428af6c91fa6d9d269d501ac18f2\nparent 4964cff36225e9951c6c6a398fb925f269532b1b\nauthor debashishc <14357362+debashishc@users.noreply.github.com> 1726918568 +1000\ncommitter GitHub <noreply@github.com> 1726918568 +1000\n\ndocs(readme): add EspNet for Speech Processing Tasks",
+                "verified_at": "2024-11-09T11:02:58Z"
+            }
+        },
+        "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/commits/d5de41ccbec7725f69c2e54c8d18a1e564aab223",
+        "html_url": "https://github.com/josephmisiti/awesome-machine-learning/commit/d5de41ccbec7725f69c2e54c8d18a1e564aab223",
+        "comments_url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/commits/d5de41ccbec7725f69c2e54c8d18a1e564aab223/comments",
+        "author": {
+            "login": "debashishc",
+            "id": 14357362,
+            "node_id": "MDQ6VXNlcjE0MzU3MzYy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14357362?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/debashishc",
+            "html_url": "https://github.com/debashishc",
+            "followers_url": "https://api.github.com/users/debashishc/followers",
+            "following_url": "https://api.github.com/users/debashishc/following{/other_user}",
+            "gists_url": "https://api.github.com/users/debashishc/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/debashishc/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/debashishc/subscriptions",
+            "organizations_url": "https://api.github.com/users/debashishc/orgs",
+            "repos_url": "https://api.github.com/users/debashishc/repos",
+            "events_url": "https://api.github.com/users/debashishc/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/debashishc/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "4964cff36225e9951c6c6a398fb925f269532b1b",
+                "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/commits/4964cff36225e9951c6c6a398fb925f269532b1b",
+                "html_url": "https://github.com/josephmisiti/awesome-machine-learning/commit/4964cff36225e9951c6c6a398fb925f269532b1b"
+            }
+        ]
+    },
+    {
+        "sha": "50ecf61e10e2a368ccf153657226251952b1bded",
+        "node_id": "C_kwDOAU2_CNoAKDUwZWNmNjFlMTBlMmEzNjhjY2YxNTM2NTcyMjYyNTE5NTJiMWJkZWQ",
+        "commit": {
+            "author": {
+                "name": "Abby Morgan",
+                "email": "86856445+anmorgan24@users.noreply.github.com",
+                "date": "2024-09-20T19:20:01Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2024-09-20T19:20:01Z"
+            },
+            "message": "Add Opik\n\nComet recently sunset CometLLM and in its place launched Opik, a tool with most of the same capabilities as the old CometLLM but with a whole host of additional features and capabilities. This PR updates the readme accordingly.\r\n\r\nSigned-off-by: Abby Morgan abigailm@comet.com",
+            "tree": {
+                "sha": "ce42ecafd2ed534f8fd24e69e39db96454ef6597",
+                "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/git/trees/ce42ecafd2ed534f8fd24e69e39db96454ef6597"
+            },
+            "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/git/commits/50ecf61e10e2a368ccf153657226251952b1bded",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJm7crhCRC1aQ7uu5UhlAAAntoQAFpxetaDxeDTOysRGB7QJLfO\n5Ct1YYvJvE593FLsEIMzDlK1xU4pjtoM7b/wOZjdl+LGrt3kffvvRp7KtmHNo/rA\nj258m6yshdM5KOjlo0neRz+4HvfaAQY2hPZ20YFzvr3zLdlbnwkTXCapShqO4/lJ\nM3gXapiqyFgYBl0CKoRzMkGmuDHnaY+ka6uc8ISH2rEK8y+6PnAlFfvbLAvO5E4w\nha1ldN6aYgaEK8KgwPe1qWb0UeELahUcdhjxdqrfoHM78NR0Ga22tkkZvxP8QO5g\nShMZBAhTCCPM8NObKG3sAZK4KBWVbOYseX1MqAmPMBmitAbhKiQ6H5fe0WEyMXsP\nYiCLGgOwaU2rTxRkex/Ja09WpgNsTbylG8S+ywgOqgZcOXeHy47nGV5SC/ObTiYs\nkWOQs72bSjmBS4HxsYOYJFhDAvCSw3EF8pjcXeLjVQLrfC2Ya+doW4koU5ADqWUO\nxoqD4pdsAXI8/2xCEFugqmoWqUpk7sK5nMlRslnjou0vDrAaemv7FEZ3HyCBgZDk\nEZ65Va+wUMQ1Hn6n8t210efjszlOdZWfFc4D8j19dJ+Ar6fUAU0wNlywSft9be9x\n3AogRbUHY+pLXSykI+o6UyAdfd3i+ZzHAYST/jn/ND4zb8QOBVeiTdNQfgBHrxK7\nk5HkA1L/bZ8bgCSCHu8E\n=rOdH\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree ce42ecafd2ed534f8fd24e69e39db96454ef6597\nparent 4964cff36225e9951c6c6a398fb925f269532b1b\nauthor Abby Morgan <86856445+anmorgan24@users.noreply.github.com> 1726860001 -0400\ncommitter GitHub <noreply@github.com> 1726860001 -0400\n\nAdd Opik\n\nComet recently sunset CometLLM and in its place launched Opik, a tool with most of the same capabilities as the old CometLLM but with a whole host of additional features and capabilities. This PR updates the readme accordingly.\r\n\r\nSigned-off-by: Abby Morgan abigailm@comet.com",
+                "verified_at": "2024-11-08T20:50:46Z"
+            }
+        },
+        "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/commits/50ecf61e10e2a368ccf153657226251952b1bded",
+        "html_url": "https://github.com/josephmisiti/awesome-machine-learning/commit/50ecf61e10e2a368ccf153657226251952b1bded",
+        "comments_url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/commits/50ecf61e10e2a368ccf153657226251952b1bded/comments",
+        "author": {
+            "login": "anmorgan24",
+            "id": 86856445,
+            "node_id": "MDQ6VXNlcjg2ODU2NDQ1",
+            "avatar_url": "https://avatars.githubusercontent.com/u/86856445?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/anmorgan24",
+            "html_url": "https://github.com/anmorgan24",
+            "followers_url": "https://api.github.com/users/anmorgan24/followers",
+            "following_url": "https://api.github.com/users/anmorgan24/following{/other_user}",
+            "gists_url": "https://api.github.com/users/anmorgan24/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/anmorgan24/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/anmorgan24/subscriptions",
+            "organizations_url": "https://api.github.com/users/anmorgan24/orgs",
+            "repos_url": "https://api.github.com/users/anmorgan24/repos",
+            "events_url": "https://api.github.com/users/anmorgan24/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/anmorgan24/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "4964cff36225e9951c6c6a398fb925f269532b1b",
+                "url": "https://api.github.com/repos/josephmisiti/awesome-machine-learning/commits/4964cff36225e9951c6c6a398fb925f269532b1b",
+                "html_url": "https://github.com/josephmisiti/awesome-machine-learning/commit/4964cff36225e9951c6c6a398fb925f269532b1b"
+            }
+        ]
+    }
+]
